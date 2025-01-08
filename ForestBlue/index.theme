@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=ForestBlue
+Comment=A sleek dark-blue theme inspired by nature
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ForestBlue
+
+[Settings]
+gtk-theme-name=ForestBlue
+
+[GTK]
+gtk-application-prefer-dark-theme=true
+

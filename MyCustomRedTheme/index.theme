@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=MyCustomRedTheme
+Comment=A red-inspired GTK and GNOME Shell theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Everforest-Dark
+MetacityTheme=Everforest-Dark
+IconTheme=Tela-circle-Dark
+CursorTheme=Everforest-cursors
+ButtonLayout=close,minimize,maximize:menu
