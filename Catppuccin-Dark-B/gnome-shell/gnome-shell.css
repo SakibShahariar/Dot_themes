@@ -3875,8 +3875,13 @@ StWidget.focused .app-grid-running-dot {
 }
 
 #overviewGroup {
-  background-color: #11111b;
+    background-color: #11111b;
+    background-image: url("file:///home/sakib/Wallpaper/astronaut.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 
 .osd-window {
   spacing: 12px;
