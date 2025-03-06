@@ -1,1 +1,30 @@
 @import url("colors.css");
+.background {
+  background-color: #1e1e2e;
+  color: #eff1f5;
+}
+
+dnd {
+  color: #eff1f5;
+}
+
+.normal-icons {
+  -gtk-icon-size: 16px;
+}
+
+.large-icons {
+  -gtk-icon-size: 32px;
+}
+
+.aboutdialog .large-icons {
+  -gtk-icon-size: 128px;
+}
+
+spinner:disabled,
+arrow:disabled,
+scrollbar:disabled,
+check:disabled,
+radio:disabled,
+treeview.expander:disabled {
+  -gtk-icon-filter: opacity(0.5);
+}
