@@ -1,0 +1,13 @@
+/* Source Pywal colors from the generated colors.sh file */
+@import url("file://$HOME/.cache/wal/colors.sh");
+
+/* GTK App Styling */
+* {
+    background-color: @background;
+    color: @foreground;
+}
+
+.selection {
+    background-color: @selected_bg;
+    color: @selected_fg;
+}
